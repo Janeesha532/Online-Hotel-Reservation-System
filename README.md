@@ -4,7 +4,7 @@ Welcome to the Online Hotel Reservation Management System! 🌟 A seamless platf
 
 
 🌟 **What Makes It Special?**
--🛏️ **Hotel Reservation**: Easily browse, book, and manage hotel rooms with a few simple clicks.
+🛏️ -**Hotel Reservation**: Easily browse, book, and manage hotel rooms with a few simple clicks.
 -📊 **Live Booking Management**: Track active bookings, cancellations, and check-ins in real-time.
 -🔐 **Secure Authentication**: Login and manage your personal or business account with high-level security.
 -🌍 **Global Access**: Allows guests from around the world to reserve rooms at any time.
